@@ -1,0 +1,6 @@
+jupyterlab
+transformers
+torch
+datasets
+accelerate # restart kernel for it to work.
+pandas
